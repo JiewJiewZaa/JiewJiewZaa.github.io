@@ -16,10 +16,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:JiewJiewZaa.github.io
+footer-links:
   dribbble:
-  email:chakkavan.bcs57@ubru.ac.th
-  facebook:Jiew Boonyaratchainon
+  email: chakkavan.bcs57@ubru.ac.th
+  facebook: Jiew Boonyaratchainon
   flickr:
   github: JiewJiewZaa
   instagram:
